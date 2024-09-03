@@ -7,5 +7,8 @@
   },
   "author": "moonhr153",
   "license": "ISC",
-  "description": "Hello World!"
+  "description": "Hello World!",
+  "devDependencies": {
+    "electron": "^32.0.1"
+  }
 }
